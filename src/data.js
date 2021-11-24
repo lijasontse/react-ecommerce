@@ -67,7 +67,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://i5.walmartimages.com/asr/f908ad7a-9197-4f00-8fbd-1803b3775f53.1836b3d02b6e9ba56694f4d994617d2e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
   },
   {
     id: 8,
